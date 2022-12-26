@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-26T14:03:11.393Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 YaBrowser/22.11.3.818 Yowser/2.5 Safari/537.36" etag="fzrFRZLJE8A_Sfqyc5Bh" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-26T15:02:21.919Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 YaBrowser/22.11.3.818 Yowser/2.5 Safari/537.36" etag="84MdUGCADXa-0APHiFDt" version="20.7.4" type="github">
   <diagram id="eSXdMw4WFxAL7-gYITn4" name="Страница 1">
     <mxGraphModel dx="1614" dy="754" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -24,7 +24,7 @@
         <mxCell id="CThTGi6md4LhZxkkEZVT-6" value="Врач" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
           <mxGeometry x="1150" y="430" width="60" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="CThTGi6md4LhZxkkEZVT-7" value="регистрация " style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="CThTGi6md4LhZxkkEZVT-7" value="регистрация пациента" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="185" width="140" height="70" as="geometry" />
         </mxCell>
         <mxCell id="CThTGi6md4LhZxkkEZVT-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="CThTGi6md4LhZxkkEZVT-6" edge="1">
